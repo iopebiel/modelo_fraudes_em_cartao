@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Page-1" id="B4jg4hBdvzY8BOF5tXkl">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#007FFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="90" y="185.63" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfO_H8r3Lnu2rx9jc3NB-2" target="BfO_H8r3Lnu2rx9jc3NB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="1">
+          <mxGeometry x="560" y="189.5" width="67.94" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfO_H8r3Lnu2rx9jc3NB-6" target="BfO_H8r3Lnu2rx9jc3NB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png" vertex="1" parent="1">
+          <mxGeometry x="381" y="185.63" width="88.75" height="88.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BfO_H8r3Lnu2rx9jc3NB-7" target="BfO_H8r3Lnu2rx9jc3NB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.filter" vertex="1" parent="1">
+          <mxGeometry x="240" y="207.51" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.056;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BfO_H8r3Lnu2rx9jc3NB-1" target="BfO_H8r3Lnu2rx9jc3NB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-11" value="Modelagem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="274.38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-12" value="Teste" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="563.97" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-15" value="Pré-Processamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-16" value="Dados" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="274.38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-17" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.metrics;" vertex="1" parent="1">
+          <mxGeometry x="720" y="194.5" width="78" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="BfO_H8r3Lnu2rx9jc3NB-21" value="Avaliação do modelo&lt;div&gt;Otimização&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="694" y="269.38" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
